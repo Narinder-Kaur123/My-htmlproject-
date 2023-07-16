@@ -1,0 +1,101 @@
+#a1{
+padding-top:30px;
+}
+.container{
+margin-top:70px;
+}
+.a2{
+border:;
+display:flex;
+margin-top:70px;
+text-align:center;
+}
+.a3{
+border:solid black;
+}
+.a4{
+border:solid black;
+}
+.a5{
+border:solid black;
+}
+.b1{
+border:;
+display:flex;
+margin-top:40px;
+text-align:center;
+}
+.b2{
+border:solid black;
+}
+.b3{
+border:solid black;
+}
+.b4{
+border:solid black;
+}
+.b5{
+display:flex;
+list-style:none;
+justify-content:space-evenly;
+ height:40px;
+ margin-top:50px;
+ color:white;
+ background-color:black;
+ 
+}
+
+.b6{
+ display:flex;
+ list-style:none;
+ justify-content:space-evenly;
+ color:red;
+ }
+ 
+ .c1{
+ display:flex;
+ justify-content:space-evenly;
+ margin-top:40px;
+ }
+ .c3{
+ background-color:red;
+ color:white;
+ padding:40px;
+ }
+ button{
+ background-color:gray;
+ color:white;
+ }
+ 
+ .d1{
+ display:flex;
+ justify-content:space-evenly;
+ margin-top:40px;
+ }
+ .m1{
+ height:220px;
+ width:220px;
+ border-radius:50%;
+ }
+ .e1{
+ border:solid red;
+ display:flex;
+ justify-content:space-evenly;
+ margin-top:40px;
+  margin-left:40px;
+  margin-right:40px;
+ }
+ 
+ .e3{
+ border:solid red;
+ padding-left:150px;
+ padding-right:150px;}
+ 
+.f1{
+display:flex;
+justify-content:space-evenly;
+margin-top:40px;
+background-color:black;
+color:white;
+padding-top:20px;
+}
